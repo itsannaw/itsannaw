@@ -1,5 +1,5 @@
-![Banner Image](https://imgur.com/xRbosGX.png)
-<h3 align="center"> I'm a Front-end Developer 👨🏻‍💻 </h3>
+
+<h3 align="center"> Hi there! I'm a Front-end Developer 👨🏻‍💻 </h3>
 
 <p align="center">
   <a href="mailto:emikot321@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
