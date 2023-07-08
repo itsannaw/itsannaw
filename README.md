@@ -1,5 +1,7 @@
-
-<h3 align="center"> Hi there! I'm a Front-end Developer 👨🏻‍💻 </h3>
+<div id="header" align="center">
+    <h1>Hi there, I'm Anya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
+    <h3>Front-end Developer</h3>
+</div>
 
 <p align="center">
   <a href="mailto:emikot321@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
