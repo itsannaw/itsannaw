@@ -1,4 +1,4 @@
-![Banner Image](https://imgur.com/xRbosGX)
+![Banner Image](https://imgur.com/xRbosGX.png)
 <h3 align="center"> I'm a Front-end Developer 👨🏻‍💻 </h3>
 
 <p align="center">
