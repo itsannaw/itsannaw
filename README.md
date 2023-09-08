@@ -10,8 +10,8 @@ I'm a frontend developer with a passion for crafting beautiful and user-friendly
 
 ## 📫 Get in Touch
 
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/itsannaw/)
-- 📧 You can reach me via email at [emikot321@gmail.com](mailto:emikot321@gmail.com).
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/itsannaw/)
+-  You can reach me via email at [emikot321@gmail.com](mailto:emikot321@gmail.com).
 
 ## 🌈 Fun Facts
 
